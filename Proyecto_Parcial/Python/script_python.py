@@ -1,6 +1,6 @@
 import os  #OS ES SITEMA OPERATIVO
 
-location = "Proyecto_Parcial/Python/dataset"
+location = "C:/Users/Irving/Documents/Ruta para Analista de Data/CERTUS/DEVOPS/Proyecto_Parcial/Python/script_python.py"
 
 ###Validar que la carpeta exista###
 if not os.path.exists(location):
